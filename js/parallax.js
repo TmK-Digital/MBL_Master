@@ -1,0 +1,1 @@
+$('.parallax-window').parallax({ imageSrc: '/images/delight-group-1.jpg' });
